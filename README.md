@@ -1,4 +1,4 @@
-#Yo React Application that talks to smart contract here : https://github.com/RbkGh/yo-portal-smart-contract
+### Yo React Application that talks to smart contract here : https://github.com/RbkGh/yo-portal-smart-contract
 
 ### Getting Started
 - Hit run
